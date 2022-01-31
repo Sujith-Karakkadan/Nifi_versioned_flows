@@ -1,6 +1,6 @@
 flows:
-  0d5d3f9d-195b-40aa-8e23-43c60fe78ec3: {ver: 1, file: testfloew.snapshot, comments: '',
-    author: 'CN=sys_admin, OU=NIFI', created: 1643599979529, flowName: testfloew,
+  0d5d3f9d-195b-40aa-8e23-43c60fe78ec3: {ver: 2, file: testfloew.snapshot, comments: added
+      log attributes, author: 'CN=sys_admin, OU=NIFI', created: 1643600719648, flowName: testfloew,
     flowDesc: ''}
 layoutVer: 1
 bucketId: d837e96f-8cb7-4dd2-b3cc-b1602e28fd86
