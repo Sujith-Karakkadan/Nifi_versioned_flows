@@ -1,0 +1,6 @@
+flows:
+  325b52ed-7329-4bbe-816d-0e8dccb152d0: {ver: 1, file: testbucketFlow.snapshot, comments: 'dev
+      changes from localhost:8445', author: 'CN=sys_admin, OU=NIFI', created: 1643647446635,
+    flowName: testbucketFlow, flowDesc: ''}
+layoutVer: 1
+bucketId: b6ac9856-00c4-472e-9e44-9acff471bc4e
