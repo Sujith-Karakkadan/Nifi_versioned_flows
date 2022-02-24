@@ -15,13 +15,13 @@
           "componentType" : "CONNECTION",
           "destination" : {
             "comments" : "",
-            "groupId" : "b3b7fb3b-cb0c-39f9-b017-2fcac7ac92d8",
+            "groupId" : "e3a75e63-08fa-335b-9687-08f0f2a459e8",
             "id" : "b7742be9-b1e3-38d5-925d-616c85031162",
             "name" : "LogAttribute",
             "type" : "PROCESSOR"
           },
           "flowFileExpiration" : "0 sec",
-          "groupIdentifier" : "b3b7fb3b-cb0c-39f9-b017-2fcac7ac92d8",
+          "groupIdentifier" : "e3a75e63-08fa-335b-9687-08f0f2a459e8",
           "identifier" : "264c95ed-2745-3f2f-81f8-30ad257343c9",
           "labelIndex" : 1,
           "loadBalanceCompression" : "DO_NOT_COMPRESS",
@@ -32,7 +32,7 @@
           "selectedRelationships" : [ "success" ],
           "source" : {
             "comments" : "",
-            "groupId" : "b3b7fb3b-cb0c-39f9-b017-2fcac7ac92d8",
+            "groupId" : "e3a75e63-08fa-335b-9687-08f0f2a459e8",
             "id" : "5665b34d-cbba-3bf4-9a5b-57b8dcb1dd16",
             "name" : "GenerateFlowFile",
             "type" : "PROCESSOR"
@@ -46,14 +46,14 @@
         "flowFileConcurrency" : "UNBOUNDED",
         "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
         "funnels" : [ ],
-        "identifier" : "b3b7fb3b-cb0c-39f9-b017-2fcac7ac92d8",
+        "identifier" : "e3a75e63-08fa-335b-9687-08f0f2a459e8",
         "inputPorts" : [ ],
         "labels" : [ ],
         "name" : "testprocessgroup",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 615.0,
-          "y" : 201.0
+          "x" : 531.0,
+          "y" : 132.5
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -68,7 +68,7 @@
           "componentType" : "PROCESSOR",
           "concurrentlySchedulableTaskCount" : 1,
           "executionNode" : "ALL",
-          "groupIdentifier" : "b3b7fb3b-cb0c-39f9-b017-2fcac7ac92d8",
+          "groupIdentifier" : "e3a75e63-08fa-335b-9687-08f0f2a459e8",
           "identifier" : "5665b34d-cbba-3bf4-9a5b-57b8dcb1dd16",
           "name" : "GenerateFlowFile",
           "penaltyDuration" : "30 sec",
@@ -146,7 +146,7 @@
           "componentType" : "PROCESSOR",
           "concurrentlySchedulableTaskCount" : 1,
           "executionNode" : "ALL",
-          "groupIdentifier" : "b3b7fb3b-cb0c-39f9-b017-2fcac7ac92d8",
+          "groupIdentifier" : "e3a75e63-08fa-335b-9687-08f0f2a459e8",
           "identifier" : "b7742be9-b1e3-38d5-925d-616c85031162",
           "name" : "LogAttribute",
           "penaltyDuration" : "30 sec",
@@ -155,7 +155,7 @@
             "y" : 472.0
           },
           "properties" : {
-            "Log prefix" : "test-2",
+            "Log prefix" : "test-22",
             "character-set" : "UTF-8",
             "Log Level" : "info",
             "attributes-to-log-regex" : ".*",
