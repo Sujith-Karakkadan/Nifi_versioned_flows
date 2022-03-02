@@ -155,7 +155,7 @@
             "y" : 472.0
           },
           "properties" : {
-            "Log prefix" : "test-22343",
+            "Log prefix" : "test-22343dfw",
             "character-set" : "UTF-8",
             "Log Level" : "info",
             "attributes-to-log-regex" : ".*",
