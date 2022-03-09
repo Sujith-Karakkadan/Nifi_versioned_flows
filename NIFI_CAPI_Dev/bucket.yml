@@ -1,7 +1,7 @@
 flows:
-  d96a1f68-2ec0-421c-8625-203fa37adc7a: {ver: 1, file: CAPI_Ingestion_workflow.snapshot,
-    comments: Created new NIFI version - initial commit (git comments), author: Sujith
-      Karakkadan, created: 1646835683253, flowName: CAPI_Ingestion_workflow, flowDesc: Created
-      new NIFI version - initial commit}
+  d96a1f68-2ec0-421c-8625-203fa37adc7a: {ver: 2, file: CAPI_Ingestion_workflow.snapshot,
+    comments: 'demo changes save ', author: Sujith Karakkadan, created: 1646841681232,
+    flowName: CAPI_Ingestion_workflow, flowDesc: Created new NIFI version - initial
+      commit}
 layoutVer: 1
 bucketId: 7a3ee939-b5b9-4e52-a547-34cf1d17a736
